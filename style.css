@@ -1,4 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 html, body {
     padding: 0px;
     margin: 0px;
+    font-family: 'Lato', sans-serif;
+    background: #eee;
 } 
+
+h1 {
+    margin: 50px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+
+}
+
+h3 {
+    /* margin: 50px; */
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+.x_axis {   
+    font-size: small;    
+}
+
+.x_label {
+    font-size: medium  
+}
